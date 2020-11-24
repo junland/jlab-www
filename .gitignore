@@ -1,0 +1,9 @@
+# Special files
+/**/*.tar.*
+/**/*.tar
+/**/*.bin
+/**/*.exe
+/**/*.iso
+/**/*.qcow2
+/**/*.vmdk
+/**/*.vdi
